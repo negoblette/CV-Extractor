@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "jszip": "^3.10.2",
+    "mammoth": "^1.13.0",
     "next": "16.4.5",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "unpdf": "^2.1.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
